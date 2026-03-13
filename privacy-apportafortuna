@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - APPortafortuna</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #0F0A1E;
+            color: #E9D5FF;
+            line-height: 1.6;
+        }
+        h1 { color: #D97706; font-size: 24px; }
+        h2 { color: #C084FC; font-size: 20px; margin-top: 30px; }
+        p { margin: 10px 0; }
+        a { color: #D97706; }
+        .emoji { font-size: 40px; text-align: center; display: block; margin: 20px 0; }
+        .update { color: #C084FC; font-size: 14px; margin-top: 40px; }
+    </style>
+</head>
+<body>
+    <span class="emoji">🔮</span>
+    <h1>Privacy Policy - APPortafortuna</h1>
+    <p class="update">Ultimo aggiornamento: Marzo 2026</p>
+
+    <h2>Introduzione</h2>
+    <p>APPortafortuna ("l'App") è un'applicazione di intrattenimento scaramantico sviluppata per dispositivi Android. La presente Privacy Policy descrive come raccogliamo, utilizziamo e proteggiamo le informazioni degli utenti.</p>
+
+    <h2>Dati raccolti</h2>
+    <p>L'App raccoglie e memorizza localmente sul dispositivo dell'utente le seguenti informazioni:</p>
+    <p><strong>Dati forniti volontariamente dall'utente:</strong></p>
+    <p>- Nome (opzionale, per personalizzare l'esperienza)</p>
+    <p>- Data di nascita (giorno e mese, per calcolare il segno zodiacale)</p>
+    <p><strong>Dati generati automaticamente:</strong></p>
+    <p>- Preferenze di utilizzo (streak, funzioni utilizzate, protezione malocchio)</p>
+    <p>- Impostazioni notifiche</p>
+
+    <h2>Archiviazione dei dati</h2>
+    <p>Tutti i dati personali sono memorizzati esclusivamente sul dispositivo dell'utente tramite AsyncStorage. Nessun dato personale viene trasmesso a server esterni o a terze parti.</p>
+
+    <h2>Servizi di terze parti</h2>
+    <p>L'App utilizza i seguenti servizi di terze parti:</p>
+    <p><strong>Google AdMob:</strong> per la visualizzazione di annunci pubblicitari. AdMob può raccogliere dati anonimi sull'utilizzo dell'App e sul dispositivo per la personalizzazione degli annunci. Per maggiori informazioni, consultare la <a href="https://policies.google.com/privacy" target="_blank">Privacy Policy di Google</a>.</p>
+    <p><strong>Expo / React Native:</strong> framework di sviluppo che può raccogliere dati anonimi sulle prestazioni dell'App.</p>
+
+    <h2>Notifiche push</h2>
+    <p>L'App può inviare notifiche push locali se l'utente le attiva nelle impostazioni. Le notifiche sono programmate localmente sul dispositivo e non richiedono la trasmissione di dati a server esterni.</p>
+
+    <h2>Sensori del dispositivo</h2>
+    <p>L'App utilizza l'accelerometro del dispositivo esclusivamente per le funzionalità interattive (rilevamento scuotimento). I dati del sensore vengono elaborati in tempo reale e non vengono memorizzati o trasmessi.</p>
+
+    <h2>Dati dei minori</h2>
+    <p>L'App non è destinata a utenti di età inferiore ai 13 anni. Non raccogliamo consapevolmente dati personali di minori di 13 anni.</p>
+
+    <h2>Diritti dell'utente</h2>
+    <p>L'utente può in qualsiasi momento:</p>
+    <p>- Modificare o eliminare il proprio nome e data di nascita dalle Impostazioni dell'App</p>
+    <p>- Disattivare le notifiche push dalle Impostazioni dell'App</p>
+    <p>- Eliminare tutti i dati dell'App disinstallandola dal dispositivo</p>
+
+    <h2>Modifiche alla Privacy Policy</h2>
+    <p>Ci riserviamo il diritto di aggiornare questa Privacy Policy. Le modifiche saranno pubblicate su questa pagina con la data di aggiornamento.</p>
+
+    <h2>Contatti</h2>
+    <p>Per domande o richieste relative alla privacy, contattare:</p>
+    <p>Email: <a href="mailto:dsitorino@gmail.com">dsitorino@gmail.com</a></p>
+
+    <p class="update">🔮 APPortafortuna - Che la fortuna sia con te!</p>
+</body>
+</html>
